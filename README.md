@@ -32,8 +32,8 @@ AI-powered resume builder.
 
 **React • JavaScript • AI**
 
-<a href="YOUR_LIVE_LINK">Live Demo</a> •
-<a href="YOUR_GITHUB_LINK">GitHub</a>
+<a href="ai-resume-builder-xi-lac.vercel.app">Live Demo</a> •
+<a href="https://github.com/PrasadDhumal-P24/ai-resume-builder.git">GitHub</a>
 
 </td>
 
@@ -47,8 +47,8 @@ AI-powered fitness tracking application.
 
 **React • JavaScript • AI • LocalStorage**
 
-<a href="YOUR_LIVE_LINK">Live Demo</a> •
-<a href="YOUR_GITHUB_LINK">GitHub</a>
+<a href="ai-fitness-tracker.vercel.app">Live Demo</a> •
+<a href="https://github.com/PrasadDhumal-P24/ai-fitness-tracker.git">GitHub</a>
 
 </td>
 </tr>
