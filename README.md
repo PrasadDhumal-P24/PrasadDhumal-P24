@@ -1,3 +1,25 @@
+# Hi 👋 I'm Prasad
+
+💻 Full-Stack Developer in Progress  
+🎓 Computer Science Student  
+🧠 Practicing Data Structures & Algorithms  
+🤖 Exploring AI Integration  
+🚀 Building Real-World Projects
+
+---
+
+## 👨‍💻 About Me
+
+I'm a Computer Science student focused on becoming a
+Full-Stack Developer.
+
+Currently learning and building with JavaScript, React,
+DSA and AI integrations.
+
+I enjoy turning ideas into practical web applications
+and continuously improving my problem-solving skills.
+
+
 <table>
 <tr>
 <td width="50%">
