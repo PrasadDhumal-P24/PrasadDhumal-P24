@@ -1,16 +1,33 @@
-## Hi there 👋
+<table>
+<tr>
+<td width="50%">
 
-<!--
-**PrasadDhumal-P24/PrasadDhumal-P24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📝 AI Resume Builder
 
-Here are some ideas to get you started:
+<img src="./assets/ai-resume-builder.png" width="100%">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+AI-powered resume builder.
+
+**React • JavaScript • AI**
+
+<a href="YOUR_LIVE_LINK">Live Demo</a> •
+<a href="YOUR_GITHUB_LINK">GitHub</a>
+
+</td>
+
+<td width="50%">
+
+### 🏋️ AI Fitness Tracker
+
+<img src="./assets/ai-fitness-tracker.png" width="100%">
+
+AI-powered fitness tracking application.
+
+**React • JavaScript • AI • LocalStorage**
+
+<a href="YOUR_LIVE_LINK">Live Demo</a> •
+<a href="YOUR_GITHUB_LINK">GitHub</a>
+
+</td>
+</tr>
+</table>
